@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github source code](https://github.com/kjyothindrapavan/frontendmentor-00000010-blogpost-card)
+- Live Site URL: [Netlify](https://lucky-froyo-b2d1f1.netlify.app/)
 
 ## My process
 - First write markup for all the elements
